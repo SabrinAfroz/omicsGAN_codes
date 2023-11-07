@@ -1,0 +1,1 @@
+python omicsGAN.py 5 exp.csv mirna.csv exp_mirna_correlation.csv label.csv
